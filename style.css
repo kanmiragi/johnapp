@@ -1,0 +1,18 @@
+
+.brand{
+background: orange !important ;
+}
+.brand-text{
+color: orange !important ;
+}
+form{
+max-width: 440px;
+margin: 20px auto;
+padding: 20px;
+}
+
+.submit{
+    color: white;
+    background-color: orange;
+}
+
